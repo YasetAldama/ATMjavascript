@@ -1,0 +1,62 @@
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.container{
+    display: flex;
+    background-image: url(imagencajero.png);
+    width: 680px;
+    height: 350px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+.formulario{
+    width: 200px;
+}
+#user{
+    width: 100%;
+    border-radius: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#pass{
+    width: 100%;
+    justify-content: center;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.entrar{
+    display: flex;
+    justify-content: center;
+    
+}
+button{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 15px;
+}
+.datos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 75px
+    height: 75px;
+    text-align:center
+}
+#nuevoSaldo{
+    border-radius: 30px;
+    text-align: center;
+}
