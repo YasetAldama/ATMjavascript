@@ -1,6 +1,6 @@
 # Cajero automático 
 
-## Para ingresar al cajero automatico es necesario utilizar los siguientes usuarios , de otra forma no se podra acceder.
+## Para ingresar al cajero automatico es necesario utilizar alguno de los siguientes usuarios:
 ```
 {nombre: 'Liam', pass: 1234}
 {nombre: 'Aitana',  pass: 2341}
@@ -8,4 +8,4 @@
 ```
 
 
-*** Yaset  Aldama ***
+***Yaset  Aldama***
